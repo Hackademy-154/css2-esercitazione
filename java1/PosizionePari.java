@@ -5,7 +5,7 @@ public class PosizionePari {
 
         
         for (int i = 0; i < numeri.length; i++) {
-            if (i % 2 == 0) { // Posizione pari
+            if (i % 2 == 0) { 
                 System.out.println("Indice " + i + ": " + numeri[i]);
             }
         }
